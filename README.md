@@ -40,7 +40,7 @@ This method works on any operating system with Python installed.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/asmeet3/auto-typer.git](https://github.com/asmeet3/auto-typer.git)
+    git clone https://github.com/asmeet3/auto-typer.git
     cd auto-typer
     ```
 2.  **Run the script:**
